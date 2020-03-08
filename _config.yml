@@ -18,7 +18,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "hoffmang.com"
-description:	       "Civil Rights, Cryptography, Tecnhnology, Capitalism, and Foo"
+description:	       "Civil Rights, Cryptography, Technology, Capitalism, and Foo"
 author:              "Gene Hoffman"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
