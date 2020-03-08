@@ -10,7 +10,7 @@ $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
-$keybase-color: black;
+$address-card-color: black;
 
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
@@ -77,7 +77,7 @@ $keybase-color: black;
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
 }
-.fa-keybase {
+.fa-address-card {
   padding: 5px;
-  @include social-media-icon($keybase-color, $icon-transition-time)
+  @include social-media-icon($address-card-color, $icon-transition-time)
 }
