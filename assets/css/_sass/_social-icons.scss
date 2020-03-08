@@ -1,7 +1,7 @@
 $icon-transition-time: 1.0s;
 $envelope-color: #f39c12;
 $twitter-color: #00aced;
-$instagram-color: #375989;
+$instagram-color: #c32aa3;
 $github-color: #343434;
 $linkedin-color: #0073a4;
 $facebook-color: #3d5b99;
@@ -10,7 +10,7 @@ $pinterest-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
-$address-card-color: black;
+$keybase-color: #ff4136;
 
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
@@ -38,7 +38,7 @@ $address-card-color: black;
   @include social-media-icon($instagram-color, $icon-transition-time);
 }
 
-.fa-github {
+.fa-github-square {
   padding: 5px;
   @include social-media-icon($github-color, $icon-transition-time);
 }
@@ -48,14 +48,9 @@ $address-card-color: black;
   @include social-media-icon($linkedin-color, $icon-transition-time);
 }
 
-.fa-facebook {
+.fa-facebook-square {
   padding: 5px;
   @include social-media-icon($facebook-color, $icon-transition-time);
-}
-
-.fa-google-plus {
-  padding: 5px;
-  @include social-media-icon($google-color, $icon-transition-time);
 }
 
 .fa-pinterest {
@@ -77,7 +72,7 @@ $address-card-color: black;
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
 }
-.fa-address-card {
+.fa-keybase {
   padding: 5px;
-  @include social-media-icon($address-card-color, $icon-transition-time)
+  @include social-media-icon($keybase-color, $icon-transition-time)
 }

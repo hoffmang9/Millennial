@@ -13,9 +13,13 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/hoffmang'}
-- {icon: 'address-card', link: 'https://keybase.io/hoffmang'}
-- {icon: 'facebook', link: 'https://www.facebook.com/hoffmang1'}
+- {icon: 'keybase', link: 'https://keybase.io/hoffmang'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/gehoffman/'}
+- {icon: 'facebook-square', link: 'https://www.facebook.com/hoffmang1'}
 - {icon: 'instagram', link: 'https://instagram.com/hoffmang9'}
+- {icon: 'github-square', link: 'https://github.com/hoffmang9'}
+
+link-icons:
 - {icon: 'envelope', link: 'mailto:hoffmang@hoffmang.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
