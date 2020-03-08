@@ -14,3 +14,5 @@ In 1997 when I was working for the first PGP, Inc., [Bob Kohn](https://en.wikipe
 Bob took a signed copy of the source code book to the office of the State Department. They informed him that their investigation of me was complete and that strong cryptography was being removed from the Munitions List at [ITAR](https://www.pmddtc.state.gov/ddtc_public?id=ddtc_public_portal_itar_landing) and transferred to the [Department of Commerce Control List](https://www.bis.doc.gov/index.php/regulations/commerce-control-list-ccl) to now be subject to "Commodity Classification" which was inexpensive and easy to license and generally exempted open source. That would happen only a couple of days after Bob's meeting.
 
 # History repeats itself
+
+The US Government has always been very aware of the tension between the US Munitions List and any impact it would have on publishing software and books.
