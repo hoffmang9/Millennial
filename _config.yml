@@ -9,8 +9,9 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 timezone:            America/Los_Angeles
-#baseurl:             ""
-site.url:            "https://hoffmang9.github.io"
+url:                 "https://hoffmang9.github.io" # the base hostname & protocol for your site
+baseurl:             "" # the subpath of your site, e.g. /blog
+#site.url:            "https://hoffmang9.github.io"
 
 sass:
   sass_dir: assets/css
